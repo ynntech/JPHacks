@@ -1,6 +1,7 @@
 
-# Sleep Hack
 
+# Sleep Hack
+##こちらは，JPHacks2018にて作成した成果物のブラッシュアップ用のリポジトリです．
 
 
 [![Product Name](image2.png)](https://www.youtube.com/watch?v=bmMFRU4lzY4)
